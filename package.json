@@ -36,11 +36,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dddddd1/vue-ssr-tech.git"
+    "url": "git+https://github.com/fanshouzhi/vue-ssr-tech.git"
   },
   "bugs": {
-    "url": "https://github.com/dddddd1/vue-ssr-tech/issues"
+    "url": "https://github.com/fanshouzhi/vue-ssr-tech/issues"
   },
-  "homepage": "https://github.com/dddddd1/vue-ssr-tech#readme",
-  "description": "``git clone git@github.com:dddddd1/vue-ssr-tech.git\r cd vue-ssr-tech\r npm install\r npm run dev``"
+  "homepage": "https://github.com/fanshouzhi/vue-ssr-tech#readme",
+  "description": "``git clone git@github.com:fanshouzhi/vue-ssr-tech.git\r cd vue-ssr-tech\r npm install\r npm run dev``"
 }
